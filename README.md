@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=YuJeong's Github&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=YuJeong's Github&fontSize=30" />
 
 <!--
 🌱 YuJeong-Yun 🌱
@@ -41,8 +41,6 @@
 
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer"/>
 
 <!--
 **YuJeong-Yun/YuJeong-Yun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
