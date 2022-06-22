@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=YuJeong's Github&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=YuJeong's Github&fontSize=40" />
 
 <!--
 🌱 YuJeong-Yun 🌱
@@ -40,9 +40,9 @@
 [![Naver Badge](https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:yunyj99@naver.com)](mailto:yunyj99@naver.com)
 
 
-<br><br><br>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
 
 <!--
 **YuJeong-Yun/YuJeong-Yun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
