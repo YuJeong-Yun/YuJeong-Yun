@@ -7,6 +7,8 @@
 <div align="center">
 -->  
 
+
+
 #### ✨ Git_stat ✨
   
   <a href="https://github.com/YuJeong-Yun"><img align="center" style="width:400px;" src="https://github-readme-stats.vercel.app/api?username=YuJeong-Yun&&theme=nord&show_icons=true&hide=contribs&border_radius=10" /></a>
@@ -39,6 +41,9 @@
 [![Kakao Badge](https://img.shields.io/badge/Kakao%20Mail-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=mailto:yunyj99@kakao.com)](mailto:yunyj99@kakao.com)
 [![Naver Badge](https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:yunyj99@naver.com)](mailto:yunyj99@naver.com)
 
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuJeong-Yun&count_bg=%23C7D0DF&title_bg=%23497798&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
 
