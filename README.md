@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=YuJeong's Github&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=YuJeong's-Github&fontSize=35" />
 
 <!--
 🌱 YuJeong-Yun 🌱
